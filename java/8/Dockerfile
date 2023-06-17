@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190515
 MAINTAINER Netflix Open Source Development <talent@netflix.com>
 
 # From https://github.com/tifayuki/docker-image-java/blob/master/8/Dockerfile
